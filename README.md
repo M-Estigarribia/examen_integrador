@@ -2,3 +2,4 @@
 Segundo examen Introducción a la Informática 
 Agustin Perera
 Franco Fantoni
+Lucas Pérez Gomar
