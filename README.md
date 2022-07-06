@@ -3,7 +3,6 @@ Segundo examen Introducción a la Informática
 <<<<<<< HEAD
 
 
-
 =======
 Micaela
 Amelia
